@@ -2,6 +2,10 @@
 
 > vueAudio-customStyle-palyer
 
+## liveDemo
+
+![image](https://github.com/Yanzengyong/audio-vue/raw/master/img/audio-vue.gif)
+
 ## Build Setup
 
 ``` bash
